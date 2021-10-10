@@ -1,14 +1,14 @@
 {
     "DEFAULTS": {
         "AUTHORS": [],
-        "ACTIVITY_TEXT": "Polemikal Voice System",
-        "GUILD_ID": "",
-        "VOICE_CHANNEL": "",
-        "MIN_STAFF_ROLE": ""
+        "ACTIVITY_TEXT": "Levis2",
+        "GUILD_ID": "378915967444451329",
+        "VOICE_CHANNEL": "597883174542114837",
+        "MIN_STAFF_ROLE": "378915967444451329"
     },
     "FILES": {
-        "WELCOME": "default_files/<welcome-voice>.mp3",
-        "STAFF": "default_files/<staff-voice>.mp3"
+        "WELCOME": "default_files/welcome-voice.mp3",
+        "STAFF": "default_files/welcome-voice.mp3"
     },
-    "TOKEN": "BOT_TOKEN"
+    "TOKEN": "ODkwOTA4MTYyNDk0OTg4MzAw.YU2o4g.AnUS5ZO_LHA6FMvDDr8-GHUrVTI"
 }
